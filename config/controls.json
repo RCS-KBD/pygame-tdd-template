@@ -1,0 +1,16 @@
+{
+    "keyboard": {
+        "move_up": "K_w",
+        "move_down": "K_s",
+        "move_left": "K_a",
+        "move_right": "K_d",
+        "action": "K_SPACE",
+        "pause": "K_ESCAPE"
+    },
+    "gamepad": {
+        "move_x": "AXIS_0",
+        "move_y": "AXIS_1",
+        "action": "BUTTON_0",
+        "pause": "BUTTON_7"
+    }
+}

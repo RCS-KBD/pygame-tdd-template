@@ -1,0 +1,1 @@
+"""Game components module for reusable game elements."""

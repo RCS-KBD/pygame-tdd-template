@@ -1,0 +1,18 @@
+{
+    "window": {
+        "width": 800,
+        "height": 600,
+        "title": "Pygame Game",
+        "fps": 60
+    },
+    "debug": {
+        "enabled": false,
+        "show_fps": true,
+        "show_hitbox": false
+    },
+    "audio": {
+        "music_volume": 0.7,
+        "sound_volume": 1.0,
+        "channels": 8
+    }
+}

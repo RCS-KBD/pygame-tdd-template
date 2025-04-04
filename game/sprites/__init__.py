@@ -1,0 +1,1 @@
+"""Sprite classes and sprite-related functionality."""
